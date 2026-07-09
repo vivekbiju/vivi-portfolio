@@ -1,6 +1,6 @@
 # vivi-portfolio
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Vivek%20Biju&subtitle=AI%20Engineer&fontSize=90&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vivek%20Biju&subtitle=AI%20Engineer&fontSize=90&animation=fadeIn" alt="Header" />
 </p>
 
 # Meet the AI Engineer 🤖
