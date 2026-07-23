@@ -27,8 +27,8 @@
 
   <div style="flex: 1 1 30%; text-align: right; min-width: 250px; margin-top: -30px;">
     <!-- Large, clean Batman image block -->
-    <img width="3840" height="2160" alt="assassin-defender-batman-z8" src="https://github.com/user-attachments/assets/3554c88f-1647-4d7a-99d2-9e4471f0271a" />
- />
+    <img width="353" height="460" alt="image" src="https://github.com/user-attachments/assets/5f0dfa2e-a963-4560-9cfd-3ee8527e2966" />
+
   </div>
 
 </div>
