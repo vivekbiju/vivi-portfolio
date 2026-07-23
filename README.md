@@ -3,12 +3,13 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VIVEK%20BIJU&subtitle=AI%20Engineer&fontSize=90&animation=fadeIn" alt="Header" />
   </a>
 </p>
+
 # Meet the AI Engineer 🤖
 
 <!-- 
     Profile Block 
     Matching style: Side-by-Side description and large aligned image.
-    Image reference: 
+    Image reference: assassin-defender-batman-z8.jpg (Image 5)
 -->
 <div align="left" style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
   
@@ -31,7 +32,8 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=3&section=header" width="100%" />
+
 ## 🛠️ Skills & Technical Matrix
 
 ### 💻 Languages & Core Ecosystem
@@ -103,11 +105,9 @@
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=3&section=header" width="100%" />
 
 ## 🔬 Featured Production-Grade AI Systems
-
-<h2 align="center">🔬 Featured Production-Grade AI Systems</h2>
 
 <table style="width: 100%; border-collapse: separate; border-spacing: 15px; margin-top: 20px;">
 <tr>
@@ -202,7 +202,7 @@ An end-to-end clinical decision support system utilizing a hybrid machine learni
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=3&section=header" width="100%" />
 
 ## 📁 Autonomous Systems & Optimization
 
@@ -247,7 +247,7 @@ An end-to-end clinical decision support system utilizing a hybrid machine learni
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=3&section=header" width="100%" />
 
 ## 📈 Engineering Rigor & Design Standards
 
@@ -256,7 +256,7 @@ An end-to-end clinical decision support system utilizing a hybrid machine learni
 *   📊 **Statistically Sound Evaluations:** Projects prioritize professional tracking metrics ($F1$-Score, $R^2$ Variance, Mean Absolute Error, Pareto-Front Dominance, RAGAS Faithfulness) rather than simple accuracy.
 *   ⚖️ **UK AI Regulation Governance:** Sentimental Engine Fallback agents are aligned with the UK AI Regulation Framework, maintaining formal Model Card documentation against regional sociolect biases.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=3&section=header" width="100%" />
 
 <p align="center">
   <b>Let's Connect!</b><br>
