@@ -46,11 +46,10 @@
 </div>
 
 ---
-
 ## 🛠️ My Most Skilled Technologies
 
 <!--
-    High-Level Core Stack Badges (matching style of Primary Badges)
+    High-Level Core Stack Badges (Primary Badges)
 -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -58,29 +57,83 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <br>
 
 <!--
-     broader Tools/Skills Cloud Matrix (matching color-coded chips style)
+    Comprehensive Categorized Skill Cloud
 -->
-**AI Engineering, MLOps, & Infrastructure**
-<br>
-![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3A?style=for-the-badge&logo=opsgenie&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-042858?style=for-the-badge&logo=chroma&logoColor=white)
-![RAGAS](https://img.shields.io/badge/RAGAS-FC6058?style=for-the-badge&logo=google&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-0052CC?style=for-the-badge&logo=langsmith&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![NSGA-II](https://img.shields.io/badge/NSGA--II-121212?style=for-the-badge)
-![Soft Actor-Critic (SAC)](https://img.shields.io/badge/SAC-3670A0?style=for-the-badge)
-![Grad-CAM](https://img.shields.io/badge/Grad--CAM-EE4C2C.svg?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-FF4B4B?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### 💻 Languages & Core Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### 🤖 AI / LLM Systems & RAG
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3A?style=flat-square&logo=opsgenie&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-042858?style=flat-square)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![FlashRank](https://img.shields.io/badge/FlashRank-111111?style=flat-square)
+![RAGAS](https://img.shields.io/badge/RAGAS-FC6058?style=flat-square)
+
+### 🧠 Machine Learning & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=flat-square)
+
+### 👁️ Computer Vision & Explainable AI (XAI)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![ResNet50](https://img.shields.io/badge/ResNet50-EE4C2C?style=flat-square)
+![Grad-CAM](https://img.shields.io/badge/Grad--CAM-EE4C2C?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-FF4B4B?style=flat-square)
+
+### ⚙️ Reinforcement Learning & Optimization
+![Gymnasium](https://img.shields.io/badge/Gymnasium-111111?style=flat-square)
+![Soft Actor-Critic](https://img.shields.io/badge/SAC_RL-3670A0?style=flat-square)
+![NSGA-II](https://img.shields.io/badge/NSGA--II-121212?style=flat-square)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+
+### 🚀 MLOps, DevOps & Cloud
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-0052CC?style=flat-square&logo=langsmith&logoColor=white)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
 
 ---
+
+<details>
+<summary>📋 <strong>Detailed Technical Domain Breakdown</strong> (Click to expand)</summary>
+
+<br>
+
+| Domain | Technologies & Skills |
+| :--- | :--- |
+| **Languages & Core Tools** | Python, JavaScript, SQL, Git, Linux |
+| **AI & LLM Systems** | LangChain (LCEL), LangGraph, Retrieval-Augmented Generation (RAG), ChromaDB, Elasticsearch, FlashRank, Hugging Face Transformers, Google Gemini API, Prompt Engineering, Semantic Retrieval, RAGAS Benchmarking |
+| **Machine Learning & DL** | PyTorch, Scikit-learn, XGBoost, TensorFlow, Feature Engineering, Supervised Learning, Model Evaluation Metrics |
+| **Computer Vision & XAI** | ResNet50, VGG16, Xception, OpenCV, Grad-CAM, Grad-CAM++, SHAP, Image Preprocessing & Augmentation |
+| **RL & Optimization** | Gymnasium, Soft Actor-Critic (SAC), Twin Q-Learning, NSGA-II, SciPy, AABB Collision Logic |
+| **Deployment & MLOps** | FastAPI, Streamlit, Docker, Docker Compose, MLflow, TensorBoard, GitHub Actions, LangSmith Tracing |
+| **Cloud Infrastructure** | AWS Certified Cloud Practitioner, Google Cloud Platform (GCP), Render, Vercel |
+
+</details>
+
+---
+
+
 
 ## 🔬 Featured Production-Grade AI Systems
 
