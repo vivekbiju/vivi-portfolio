@@ -6,7 +6,8 @@
       </a>
     </td>
     <td align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/5f0dfa2e-a963-4560-9cfd-3ee8527e2966" width="170" height="170" style="border-radius: 50%; object-fit: cover;" alt="Vivek Biju Profile Picture" />
+      <img width="342" height="390" alt="image" src="https://github.com/user-attachments/assets/c32d2f1a-1e2b-4c5d-a4c6-b334178513cd" style="border-radius: 50%; object-fit: cover;" alt="Vivek Biju Profile Picture" />
+
     </td>
   </tr>
 </table>
