@@ -1,6 +1,6 @@
 # [vivekbiju](https://github.com/vivekbiju) 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=[vivekbiju](https://github.com/vivekbiju) %20Biju&subtitle=AI%20Engineer&fontSize=90&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VIVEK BIJU %20Biju&subtitle=AI%20Engineer&fontSize=90&animation=fadeIn" alt="Header" />
 </p>
 
 # Meet the AI Engineer 🤖
