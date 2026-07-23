@@ -10,16 +10,4 @@
   </tr>
 </table>
 
-
-<table border="0" align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://github.com/vivekbiju">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VIVEK%20BIJU&subtitle=AI%20Engineer&fontSize=80&animation=fadeIn" alt="Header Banner" />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <img src="YOUR_NEW_CIRCULAR_IMAGE_URL" width="170" height="170" alt="Vivek Biju Profile Picture" />
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/vivekbiju.png" width="170" height="170" alt="Vivek Biju" />
