@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/vivekbiju">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VIVEK%20BIJU&subtitle=AI%20Engineer&fontSize=90&animation=fadeIn" alt="Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=VIVEK%20BIJU&subtitle=AI%20Engineer&fontSize=90&animation=fadeIn" alt="Header" />
   </a>
 </p>
 
