@@ -40,7 +40,6 @@
 
   <div style="flex: 1 1 30%; text-align: right; min-width: 250px; margin-top: -30px;">
     <!-- Large, clean Batman image block -->
-    <img width="353" height="460" alt="image" src="https://github.com/user-attachments/assets/5f0dfa2e-a963-4560-9cfd-3ee8527e2966" />
 
   </div>
 
