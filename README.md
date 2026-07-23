@@ -8,7 +8,7 @@
 <!-- 
     Profile Block 
     Matching style: Side-by-Side description and large aligned image.
-    Image reference: assassin-defender-batman-z8.jpg (Image 5)
+    Image reference: 
 -->
 <div align="left" style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
   
