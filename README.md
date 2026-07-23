@@ -265,5 +265,5 @@ An end-to-end clinical decision support system utilizing a hybrid machine learni
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" alt="Footer" />
 </p>
