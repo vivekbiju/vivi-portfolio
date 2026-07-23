@@ -3,7 +3,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VIVEK%20BIJU&subtitle=AI%20Engineer&fontSize=90&animation=fadeIn" alt="Header" />
   </a>
 </p>
-
 # Meet the AI Engineer 🤖
 
 <!-- 
@@ -106,8 +105,6 @@
 
 ---
 
-
-
 ## 🔬 Featured Production-Grade AI Systems
 
 <h2 align="center">🔬 Featured Production-Grade AI Systems</h2>
@@ -204,7 +201,6 @@ An end-to-end clinical decision support system utilizing a hybrid machine learni
 </td>
 </tr>
 </table>
-
 
 ---
 
