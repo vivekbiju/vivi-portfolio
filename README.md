@@ -99,49 +99,9 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-<details>
-  <summary><b>📋 Detailed Technical Domain Breakdown (Click to expand)</b></summary>
-  <br>
 
-  <table>
-    <thead>
-      <tr>
-        <th>Domain</th>
-        <th>Technologies & Skills</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><b>Languages & Core Tools</b></td>
-        <td>Python, JavaScript, SQL, Git, Linux</td>
-      </tr>
-      <tr>
-        <td><b>AI & LLM Systems</b></td>
-        <td>LangChain (LCEL), LangGraph, Retrieval-Augmented Generation (RAG), ChromaDB, Elasticsearch, FlashRank, Hugging Face Transformers, Google Gemini API, Prompt Engineering, Semantic Retrieval, RAGAS Benchmarking</td>
-      </tr>
-      <tr>
-        <td><b>Machine Learning & DL</b></td>
-        <td>PyTorch, Scikit-learn, XGBoost, TensorFlow, Feature Engineering, Supervised Learning, Model Evaluation Metrics</td>
-      </tr>
-      <tr>
-        <td><b>Computer Vision & XAI</b></td>
-        <td>ResNet50, VGG16, Xception, OpenCV, Grad-CAM, Grad-CAM++, SHAP, Image Preprocessing & Augmentation</td>
-      </tr>
-      <tr>
-        <td><b>RL & Optimization</b></td>
-        <td>Gymnasium, Soft Actor-Critic (SAC), Twin Q-Learning, NSGA-II, SciPy, AABB Collision Logic</td>
-      </tr>
-      <tr>
-        <td><b>Deployment & MLOps</b></td>
-        <td>FastAPI, Streamlit, Docker, Docker Compose, MLflow, TensorBoard, GitHub Actions, LangSmith Tracing</td>
-      </tr>
-      <tr>
-        <td><b>Cloud Infrastructure</b></td>
-        <td>AWS Certified Cloud Practitioner, Google Cloud Platform (GCP), Render, Vercel</td>
-      </tr>
-    </tbody>
-  </table>
-</details>
+<details>
+<summary>📋 <strong>Detailed Technical Domain Breakdown</strong> (Click to expand)</summary>
 
 | Domain | Technologies & Skills |
 | :--- | :--- |
