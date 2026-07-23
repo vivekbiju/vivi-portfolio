@@ -48,9 +48,7 @@
 
 </div>
 
-<p align="center">
-  <img src="image_0.png" width="100%" alt="Rainbow Gradient Divider" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=3&section=header" width="100%" />
 
 ## 🛠️ Skills & Technical Matrix
 
@@ -123,9 +121,7 @@
 
 </details>
 
-<p align="center">
-  <img src="image_0.png" width="100%" alt="Rainbow Gradient Divider" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=3&section=header" width="100%" />
 
 ## 🔬 Featured Production-Grade AI Systems
 
@@ -222,9 +218,7 @@ An end-to-end clinical decision support system utilizing a hybrid machine learni
 </tr>
 </table>
 
-<p align="center">
-  <img src="image_0.png" width="100%" alt="Rainbow Gradient Divider" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=3&section=header" width="100%" />
 
 ## 📁 Autonomous Systems & Optimization
 
@@ -269,9 +263,7 @@ An end-to-end clinical decision support system utilizing a hybrid machine learni
   </tr>
 </table>
 
-<p align="center">
-  <img src="image_0.png" width="100%" alt="Rainbow Gradient Divider" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=3&section=header" width="100%" />
 
 ## 📈 Engineering Rigor & Design Standards
 
@@ -280,9 +272,7 @@ An end-to-end clinical decision support system utilizing a hybrid machine learni
 *   📊 **Statistically Sound Evaluations:** Projects prioritize professional tracking metrics ($F1$-Score, $R^2$ Variance, Mean Absolute Error, Pareto-Front Dominance, RAGAS Faithfulness) rather than simple accuracy.
 *   ⚖️ **UK AI Regulation Governance:** Sentimental Engine Fallback agents are aligned with the UK AI Regulation Framework, maintaining formal Model Card documentation against regional sociolect biases.
 
-<p align="center">
-  <img src="image_0.png" width="100%" alt="Rainbow Gradient Divider" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,24,30&height=3&section=header" width="100%" />
 
 <p align="center">
   <b>Let's Connect!</b><br>
